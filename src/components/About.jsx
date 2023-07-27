@@ -43,7 +43,7 @@ const About = () => {
        variants={fadeIn("","", 0.1, 1)}
        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-       I'm a skilled software developer and have a command of the languages like C, C++, Java, and SQL. I also have expertise in frameworks like React and Three.js. I am a quick learner and also very passionate about coding. I love to learn new skills and enhance myself with new technologies. 
+       I'm a skilled software developer and have a command of the languages like C, C++, React, javascript and SQL. I also have expertise in frameworks like React and Three.js. I am a quick learner and also very passionate about coding. I love to learn new skills and enhance myself with new technologies. 
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
       {services.map((services,index)=>(
