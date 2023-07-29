@@ -58,9 +58,8 @@ const Experience = () => {
         </VerticalTimeline>
       </div>
       <div>remove this div tags</div>
-      <div>changing</div>
-      <div>my changes</div>
-      <div>my changes</div>
+      <div>remove this div tags</div>
+      <div>remove this div tags</div>
       <div>my changes</div>
     </>
   )
