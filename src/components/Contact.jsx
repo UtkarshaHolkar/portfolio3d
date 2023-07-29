@@ -27,7 +27,7 @@ const Contact = () => {
     >
     <p className={styles.sectionSubText}>Get in touch-utkarshaaholkar@gmail.com@gmail.com</p>
     <h3 className={styles.sectionHeadText}>Contact-</h3>
-    <p className={styles.sectionSubText}>6269145000</p>
+    <p className={styles.sectionSubText}></p>
     <form
     ref={formRef}
     onSubmit={handleChange}
