@@ -49,7 +49,3 @@ const Hero = () => {
 };
 
 export default Hero;
-//hjk
-//hjk
-//hjk
-//hjk
