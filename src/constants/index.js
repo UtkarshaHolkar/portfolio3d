@@ -136,16 +136,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Sending ETHERS through blockchain",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to send ethereum from one user to another using smart contract.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Tailwind css",
         color: "green-text-gradient",
       },
       {
