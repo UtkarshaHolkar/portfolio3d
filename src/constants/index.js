@@ -158,8 +158,7 @@ const projects = [
   },
   {
     name: "Integrated AI tools",
-    description:
-      "",
+    description:"My project showcases an innovative fusion of AI-integrated tools,by seamlessly integrating a diverse array of tools such as image and video generation, GPT-based language capabilities, and interactive chatbots through advanced APIs, we have created a multifaceted platform",
     tags: [
       {
         name: "react",
