@@ -176,6 +176,26 @@ const projects = [
     image: jobit,
     source_code_link: "https://github.com/",
   },
+  {
+    name: "Integrated AI tools",
+    description:"My project showcases an innovative fusion of AI-integrated tools,by seamlessly integrating a diverse array of tools such as image and video generation, GPT-based language capabilities, and interactive chatbots through advanced APIs, we have created a multifaceted platform",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/",
+  },
   
 ];
 
