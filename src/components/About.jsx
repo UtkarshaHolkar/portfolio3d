@@ -59,7 +59,10 @@ const About = () => {
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
       </div>
-      
+      <></>
+      <></>
+      <></>
+      <></>
     </>
   );
 };
